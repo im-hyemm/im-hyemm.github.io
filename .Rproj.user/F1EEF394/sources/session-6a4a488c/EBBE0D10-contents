@@ -1,14 +1,7 @@
 ---
-title: "im-hyemm.github.io"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Website"
+about:
+    template: broadside
 ---
 
 Hi
